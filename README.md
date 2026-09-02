@@ -44,7 +44,7 @@
 ## 事实依据与维护关系
 
 - [官方来源与核对日期](SOURCES.md)
-- [维护者与商业关系披露](DISCLOSURE.md)
+- [维护与评测方法](DISCLOSURE.md)
 - [更新记录](CHANGELOG.md)
 
-本仓库由 AIXiamo 维护，不代表 OpenAI，也不与 OpenAI 存在隶属关系。内容采用 MIT License；欢迎提交事实修正，但请附可核验来源。
+本仓库依据注明日期的公开资料与可核验服务事实维护。内容采用 MIT License；欢迎提交附有可核验来源的事实修正。
