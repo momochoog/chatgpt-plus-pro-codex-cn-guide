@@ -33,7 +33,7 @@ last_modified_at: 2026-08-09
 - 避免同一问题同时开多个重复任务。
 - 能使用缓存上下文时，不重复发送整份项目资料。
 
-## 维护者延伸阅读
+## AIXiamo 延伸核验
 
 [AIXiamo：ChatGPT Pro 5x 与 20x 怎么选（自有页面）](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=pro_5x_20x_decision)
 
