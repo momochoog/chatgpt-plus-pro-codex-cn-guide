@@ -60,7 +60,7 @@ Credits 是会员下支持功能的额外用量，不是 API 余额；是否可�
 - 不要同时开启多个目标相同的任务。
 - 把项目约束写入 `AGENTS.md`，减少反复解释。
 
-## 维护者延伸阅读
+## AIXiamo 延伸核验
 
 [AIXiamo：Codex 额度不足时的 Plus / Pro / API 排查（自有页面）](https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_quota_recovery)
 
