@@ -393,7 +393,7 @@
     { label: "Codex 会员、Credits 与 API 的关系", meta: "指南", url: `${PAGES_BASE}/docs/codex-membership-vs-api.html`, terms: "codex credits api key plus pro" },
     { label: "Codex 额度不足能否购买 Credits", meta: "指南", url: `${PAGES_BASE}/docs/codex-quota-usage.html`, terms: "限额 用完 不够 credits 购买额度" },
     { label: "官方事实与核对日期", meta: "来源", url: `${PAGES_BASE}/SOURCES.html`, terms: "openai 官方 来源" },
-    { label: "维护与商业关系披露", meta: "披露", url: `${PAGES_BASE}/DISCLOSURE.html`, terms: "aixiamo utm 商业" }
+    { label: "维护与评测方法", meta: "证据", url: `${PAGES_BASE}/DISCLOSURE.html`, terms: "aixiamo 评测 方法 公开证据" }
   ];
 
   const searchTrigger = document.querySelector("#search-trigger");
