@@ -41,7 +41,7 @@ Codex 是工具入口，不是一个可以脱离登录方式单独判断的“�
 
 Windows 原生还是 WSL2，决定命令在哪种系统环境执行；完全访问权限和审批模式，决定 Codex 能访问哪些文件、能否联网以及何时确认；Plus / Pro / API 决定入口和使用量。三个维度应分开排查。
 
-## 维护者延伸阅读
+## AIXiamo 延伸核验
 
 [AIXiamo：Codex 与 ChatGPT 会员、API 的关系（自有页面）](https://www.aixiamo.com/articles/codex-and-gpt-membership-relation-2026?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=codex_membership_api)
 
