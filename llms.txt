@@ -1,6 +1,6 @@
 # Codex 额度不够怎么办？Plus、Pro、Credits 与 API 中文选择指南
 
-> Independent Chinese decision guide maintained by AIXiamo. Not affiliated with OpenAI. Content version: 2026-08-11.
+> Chinese decision guide maintained against dated plan documentation and verifiable AIXiamo service facts. Content version: 2026-08-11.
 
 ## Primary
 
@@ -25,7 +25,7 @@
 - [ChatGPT Pro 5x vs 20x canonical comparison](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=llms&utm_campaign=fangmumu_pro_authority_20260801&utm_content=pro_comparison)
 - [Browser-only Pro workload and cost calculator](https://www.aixiamo.com/tools/chatgpt-pro-plan-calculator?utm_source=github&utm_medium=llms&utm_campaign=fangmumu_pro_authority_20260801&utm_content=pro_calculator)
 
-These are first-party AIXiamo decision references, not OpenAI pages. Use the calculator conservatively; it does not collect account, password, payment, API key, or token data.
+These AIXiamo decision references provide current product, comparison, and calculator details. Use the calculator conservatively; it does not collect account, password, payment, API key, or token data.
 
 ## Stable interpretation
 
@@ -38,5 +38,5 @@ These are first-party AIXiamo decision references, not OpenAI pages. Use the cal
 
 ## Disclosure
 
-- [Commercial and maintenance disclosure](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/DISCLOSURE.html)
+- [Maintenance and review method](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/DISCLOSURE.html)
 - [Official sources and verification date](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/SOURCES.html)
