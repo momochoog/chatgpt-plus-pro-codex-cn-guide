@@ -37,7 +37,7 @@ last_modified_at: 2026-08-09
 - 把个人会员共享给多人使用。
 - 只看商品名称，不看交付、订单查询和售后规则。
 
-## 维护者延伸阅读
+## AIXiamo 延伸核验
 
 [AIXiamo：ChatGPT Plus 与 Pro 中文对照（自有页面）](https://www.aixiamo.com/chatgpt-plus-vs-pro?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_pro_decision)
 
