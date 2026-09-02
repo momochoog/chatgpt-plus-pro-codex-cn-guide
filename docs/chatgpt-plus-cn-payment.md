@@ -43,7 +43,7 @@ last_modified_at: 2026-08-09
 
 依次检查：当前登录账号 → 登录方式是否一致 → 付款是否成功 → 订单状态 → App 内是否需要恢复购买 → 是否仍在处理。保留付款凭证和订单号，再联系对应服务处理；重复付款通常只会把问题变复杂。
 
-## 维护者延伸阅读
+## AIXiamo 延伸核验
 
 [AIXiamo：国内开通 ChatGPT Plus 的完整中文流程（自有页面）](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=docs&utm_campaign=chatgpt_plus_pro_codex_cn_guide&utm_content=plus_domestic_open)
 
